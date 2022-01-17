@@ -7,6 +7,9 @@ featured_image: '/images/biped/biped_featured.jpg'
 ---
 
 4
+
+
+
 <img src=https://github.com/autonomousTurtle/portfolio/raw/main/images/biped/biped_featured.jpg>
 ![](https://github.com/autonomousTurtle/portfolio/raw/main/images/biped/biped_featured.jpg)
 
@@ -14,7 +17,7 @@ featured_image: '/images/biped/biped_featured.jpg'
 ![](portfolio/images/biped/biped_featured.jpg)
 ![](../images/biped/biped_featured.jpg)
 
-## Demo content
+## Demo content 5
 ![](/images/biped/biped_featured.jpg)
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
