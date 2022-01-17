@@ -20,22 +20,16 @@ featured_image: /images/workshop/workshop_feature1.png
 
 Toolbox items are categorized by function: attaching, grabbing, taping, measuring, and drilling. 
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
+I use a [Prusa MK3 3D Printer](https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/); this one is at least 6 years old and still runs like a dream! I highly recommend (I am not sponsored by Prusa)
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/square-01.jpg">
-    <img src="/images/demo/portrait-02.jpg">
-    <img src="/images/demo/square-02.jpg">
-    <img src="/images/demo/square-03.jpg">
-    <img src="/images/demo/square-04.jpg">
-    <img src="/images/demo/landscape-05.jpg">
-</div>
-```
+![](/images/workshop/workshop_3dprint.PNG)
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+*if you do purchase one, I recommend the kit and build it yourself. Absolute blast to build and a perfect example of how an instruction manual is supposed to be created.*
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+## Electrical
 
----
+
+## Most Useful Items
+
+* electrical s
 
