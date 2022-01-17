@@ -2,11 +2,10 @@
 title: About Autonomous Turtle
 subtitle: "Welcome to my proejct playgound. I believe projects fall into two categroies: they either teach you something or they accomplsih a finished product goal. Not everything on this porfolio is fully finished, but that's becuase it taught me what I needed to learn along to way to consider it complete!"
 description: Board is a stylish full-width masonry grid theme.
-featured_image: /images/demo/landscape-05.jpg
+featured_image: /imagesabout/drone_about.png
 ---
 
-![](/images/demo/landscape-05.jpg)
-<img src="https://github.com/autonomousTurtle/portfolio/blob/main/images/demo/landscape-05.jpg" width="500" />
+![](/images/about/drone_about.png)
 
 ## Mission
 
