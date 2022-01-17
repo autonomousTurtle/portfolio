@@ -6,7 +6,10 @@ description: A project for May We help and Joe Nuxall Miracle League, this putte
 featured_image: '/images/biped/biped_featured.jpg'
 ---
 
-1
+2
+
+![](https://github.com/autonomousTurtle/portfolio/blob/main/images/biped/biped_featured.jpg)
+
 
 ![](portfolio/images/biped/biped_featured.jpg)
 ![](../images/biped/biped_featured.jpg)
