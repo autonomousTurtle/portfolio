@@ -29,32 +29,6 @@ Images from the prototype build!
 	<img src="/images/robot_putter/robot_putter_arduino.PNG">
 </div>
 
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/landscape-02.jpg">
-	<img src="/images/demo/landscape-03.jpg">
-	<img src="/images/demo/landscape-04.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/107469489" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
 ## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
 
 <a href="https://github.com/autonomousTurtle/Robot_Putter" class="button button--large">Follow On Github</a>
