@@ -17,12 +17,11 @@ The goal of this project was to develop a robot putter that can be used on a min
 The player drives the robot around the putt-putt course with a joystick. When the approach the golf ball and get the robot aimed in the right direction, they press the putt button and the robot swings the putter! 
 
 
-
 ### Development Gallery
 
 Images from the prototype build!
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/robot_putter/robot_putter_iso.PNG">
 	<img src="/images/robot_putter/robot_putter_rftest.PNG">
 	<img src="/images/robot_putter/robot_putter_controll0.PNG">
