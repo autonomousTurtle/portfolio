@@ -1,7 +1,7 @@
 ---
 title: Workshop
-subtitle: "Welcome to my proejct playgound. I believe projects fall into two categroies: they either teach you something or they accomplsih a finished product goal. Not everything on this porfolio is fully finished, but that's becuase it taught me what I needed to learn along to way to consider it complete!"
-description: Board is a stylish full-width masonry grid theme.
+subtitle: "Where the sausage gets made. Behind the scenes into my workshop, my favorite tools, and must have items for robot prototyping. "
+description: Workshop behind the scenes catalog. 
 featured_image: /images/workshop/workshop_feature1.png
 ---
 
@@ -31,5 +31,5 @@ I use a [Prusa MK3 3D Printer](https://www.prusa3d.com/product/original-prusa-i3
 
 ## Most Useful Items
 
-* electrical s
+
 
