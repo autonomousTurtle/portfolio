@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Robot Putter'
+subtitle: 'Remote Control Adaptive Robot Putter'
 date: 2018-06-30 00:00:00
-description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
+description: A project for May We help and Joe Nuxall Miracle League, this putter is fully remote controlled. Using a unique control from Microsoft, the robot can easily be moved around and putt the ball! 
 featured_image: '/images/demo/square-05.jpg'
 ---
 
