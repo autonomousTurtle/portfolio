@@ -1,7 +1,7 @@
 site: Autonomous Turtle Portfolio 
 
-url: https://autonomousturtle.github.io/portfolio/
-baseurl: https://autonomousturtle.github.io/portfolio/
+url: https://autonomousturtle.github.io
+baseurl: /portfolio
 
 collections:
   pages:
