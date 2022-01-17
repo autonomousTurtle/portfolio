@@ -1,6 +1,6 @@
 ---
 title: Workshop
-subtitle: "Where the sausage gets made. Behind the scenes into my workshop, my favorite tools, and must have items for robot prototyping. "
+subtitle: "The room where it happens. Behind the scenes into my workshop, my favorite tools, and must have items for robot prototyping. "
 description: Workshop behind the scenes catalog. 
 featured_image: /images/workshop/workshop_feature1.png
 ---
@@ -22,7 +22,7 @@ Toolbox items are categorized by function: attaching, grabbing, taping, measurin
 
 I use a [Prusa MK3 3D Printer](https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/); this one is at least 6 years old and still runs like a dream! I highly recommend (I am not sponsored by Prusa)
 
-![](/images/workshop/workshop_3dprint.PNG)
+![](/images/workshop/3Dprinter.png)
 
 *if you do purchase one, I recommend the kit and build it yourself. Absolute blast to build and a perfect example of how an instruction manual is supposed to be created.*
 
