@@ -10,10 +10,10 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'About'
-      url: '/about'
     - title: 'Workshop'
       url: '/workshop'
+    - title: 'About'
+      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
