@@ -20,7 +20,7 @@ featured_image: /images/workshop/workshop_feature1.png
 
 Toolbox items are categorized by function: attaching, grabbing, taping, measuring, and drilling. 
 
-I use a [Prusa MK3 3D Printer](https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/); this one is at least 6 years old and still runs like a dream! I highly recommend (I am not sponsored by Prusa)
+I use a [Prusa MK3 3D Printer](https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/); this one is at least 4 years old and still runs like a dream! I highly recommend (I am not sponsored by Prusa)
 
 ![](/images/workshop/3Dprinter.png)
 
