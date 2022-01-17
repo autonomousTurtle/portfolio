@@ -9,13 +9,6 @@ featured_image: /images/workshop/workshop_feature1.png
 
 ## Toolbox
 
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
 <div class="gallery" data-columns="3">
   <img src="/images/workshop/workshop_chest1.PNG">
 	<img src="/images/workshop/workshop_attaching.PNG">
@@ -24,6 +17,8 @@ Here's a really neat custom feature we added – galleries:
 	<img src="/images/workshop/workshop_measuring.PNG">
 	<img src="/images/workshop/workshop_drills.PNG">
 </div>
+
+Toolbox items are categorized by function: attaching, grabbing, taping, measuring, and drilling. 
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
