@@ -6,7 +6,6 @@ featured_image: /images/demo/landscape-05.jpg
 ---
 
 ![](/images/demo/landscape-05.jpg)
-<img src="https://github.com/autonomousTurtle/portfolio/blob/main/images/demo/landscape-05.jpg" width="500" />
 
 ## Mission
 
