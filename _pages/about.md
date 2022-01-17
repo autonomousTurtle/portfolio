@@ -12,5 +12,14 @@ featured_image: /images/demo/landscape-05.jpg
 
 I subscribe that our objective in life is to move the ball forward. To reduce pain and suffering, to increase equality, and make tomorrow better than today. My aim is to do that with technology and robotics. 
 
+
+## Autonomous Turtle Origin
+Turtle type robots (picture a small robot with two couple wheels and a domed top) were originally designed in the late 1940's as primitive educational tools, and have continuously  evolved since. Turtle robots continue to advance each year since the original design, becoming smarter, more perceptive, more capable. Turtle robots are training engineers and scientists to make the next generation of robots, one day achieving a fully autonomous turtle. 
+
+
+## Workshop
+
+Gallery of workshop items that are critical to rapid robotic prototyping
+
 ## Feel free to reach out
-<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Contact Me</a>
