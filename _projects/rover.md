@@ -36,20 +36,16 @@ This robot consists of a mobile platform with 4 independent drive motors and a 3
 * LiPo Discharge and Charger Board
 * Current and Voltage Monitor
 
+#### Robot Arm
+* Qty 4 20KG Annimos Digial Servos
+* Serial Servo Driver Board
+* Swash Plate Bearing
 
-You can create lists:
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+### Navigation
 
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+<img src="/images/rover/vision-test.gif">
+*Ball finding algorithm to identify and pick up tennis balls in the frame. 
 
 > “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 
@@ -71,42 +67,13 @@ You can throw in some horizontal rules too:
 
 ---
 
-### Image galleries
 
-Here's a really neat custom feature we added – galleries:
-
-
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/square-01.jpg">
-    <img src="/images/demo/portrait-02.jpg">
-    <img src="/images/demo/square-02.jpg">
-    <img src="/images/demo/square-03.jpg">
-    <img src="/images/demo/square-04.jpg">
-    <img src="/images/demo/landscape-05.jpg">
-</div>
-```
 
 *See what we did there? Code and syntax highlighting is built-in too!*
 
 Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
 ---
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/landscape-02.jpg">
-	<img src="/images/demo/landscape-03.jpg">
-	<img src="/images/demo/landscape-04.jpg">
-</div>
 
 ### What about videos?
 
