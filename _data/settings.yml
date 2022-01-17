@@ -12,6 +12,8 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
+    - title: 'Workshop'
+      url: '/workshop'
     - title: 'Contact'
       url: '/contact'
 
