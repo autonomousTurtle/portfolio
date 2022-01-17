@@ -23,8 +23,8 @@ This robot consists of a mobile platform with 4 independent drive motors and a 3
 ### Components
 
 #### Controls
-* Raspberry Pi 4 B
-* Arduino Mega
+* [Raspberry Pi 4 B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+* [Arduino Mega](https://store.arduino.cc/products/arduino-mega-2560-rev3)
 
 #### Sensors
 * [9 Axis IMU BNO055](https://www.adafruit.com/product/2472)
