@@ -1,6 +1,6 @@
 ---
 title: 'FetchBot'
-subtitle: 'Man's best friend's best friend'
+subtitle: 'Man's best friend's new best friend'
 date: 2018-06-30 00:00:00
 description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
 featured_image: '/images/fetchbot/fetchbot_featured.jpg'
