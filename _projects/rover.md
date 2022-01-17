@@ -20,12 +20,22 @@ This robot consists of a mobile platform with 4 independent drive motors and a 3
 </div>
 
 
-
-### Navigation
-
-
 ### Components
-The robot uses ultrasonic sensors and a 5MP color camera to navigate. 
+
+#### Controls
+* Raspberry Pi 4 B
+* Arduino Mega
+
+#### Sensors
+* [9 Axis IMU BNO055](https://www.adafruit.com/product/2472)
+* [Ultrasonic Proximity Sensor HC-SR04](https://www.raspberrypi.com/documentation/accessories/camera.html)
+* [5MP Color Raspberry Pi Camera](https://www.raspberrypi.com/documentation/accessories/camera.html)
+
+#### Power
+* 7.4V LiPo Battery Packs
+* LiPo Discharge and Charger Board
+* Current and Voltage Monitor
+
 
 You can create lists:
 
