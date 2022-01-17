@@ -6,6 +6,7 @@ featured_image: /images/demo/landscape-05.jpg
 ---
 
 ![](/images/demo/landscape-05.jpg)
+<img src="/images/demo/landscape-05.jpg" width="500" />
 
 ## Mission
 
