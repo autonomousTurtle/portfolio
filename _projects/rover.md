@@ -2,19 +2,30 @@
 title: 'Rover'
 subtitle: 'Autonomous mobile robot, picking up anything in its path'
 date: 2018-06-30 00:00:00
-description: Mobile robot with 4DOF arm that drives around and picks stuff up and places it in a central clean up bin
+description: Mobile robot with 3DOF arm that drives around and picks stuff up and places it in a central clean up bin
 featured_image: '/images/rover/rover_featured.jpg'
 ---
 
 ![](/images/rover/rover_featured.jpg)
 
-## Demo content
+## Robot Details
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+This robot consists of a mobile platform with 4 independent drive motors and a 3 degree-of-freedom robot arm attached to the front. The robot navigates around, avoiding large obstacles, until it finds an object that it is able to pick. It moves towards that object and uses the moutned arm to pick it up. The robot then returns the object to a pre-programmed location such as a basket for dog toys. 
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+<div class="gallery" data-columns="3">
+	<img src="/images/rover/GizmoConcept.png">
+	<img src="/images/rover/HoldingBall.JPG">
+	<img src="/images/rover/TopView.JPG">
+</div>
+
+
+
+### Navigation
+
+
+### Components
+The robot uses ultrasonic sensors and a 5MP color camera to navigate. 
 
 You can create lists:
 
@@ -54,14 +65,7 @@ You can throw in some horizontal rules too:
 
 Here's a really neat custom feature we added – galleries:
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/square-01.jpg">
-	<img src="/images/demo/portrait-02.jpg">
-	<img src="/images/demo/square-02.jpg">
-	<img src="/images/demo/square-03.jpg">
-	<img src="/images/demo/square-04.jpg">
-	<img src="/images/demo/landscape-05.jpg">
-</div>
+
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
@@ -103,9 +107,4 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 ---
 
 ## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Follow Project</a>
