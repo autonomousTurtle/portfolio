@@ -8,8 +8,8 @@ featured_image: '/images/biped/biped_featured.jpg'
 ![](/images/biped/biped_featured.jpg)
 
 ## Biped Walking Robot with Camera
-<img src="/images/biped/biped_featured.jpg" height="100">
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+The purpose of this robot was to demonstrate self-balancing locomotion of an un-guided robot. Each leg uses 5 servos providing 3 degrees of freedom.
+
 
 The 20KG servos use serial communication to talk to one another, allowing them to be connected to each other rather than each to a central drive board. 
 
