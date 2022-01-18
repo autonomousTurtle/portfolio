@@ -31,10 +31,12 @@ This robot consists of a mobile platform with 4 independent drive motors and a 3
 * [Ultrasonic Proximity Sensor HC-SR04](https://www.raspberrypi.com/documentation/accessories/camera.html)
 * [5MP Color Raspberry Pi Camera](https://www.raspberrypi.com/documentation/accessories/camera.html)
 
-#### Power
+#### Power and Drive
 * 7.4V LiPo Battery Packs
 * LiPo Discharge and Charger Board
 * Current and Voltage Monitor
+* DC Brushed Motor with Encoder
+* Mecanum Wheel and Hub Mount
 
 #### Robot Arm
 * Qty 4 20KG Annimos Digial Servos
