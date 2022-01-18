@@ -42,5 +42,5 @@ To make the nunckuck work, an arduino teensy was used to interpret the nunchuck 
 	<img src="/images/controller_mod/controller_top_view.jpg">
 	<img src="/images/controller_mod/micro_controller.jpg">
 	<img src="/images/controller_mod/nunchuck_insert.jpg">
-	<img src="/images/controller_mod/prototype1.jpg">
+	<img src="/images/controller_mod/prototype 1.jpg">
 </div>
