@@ -8,45 +8,31 @@ featured_image: '/images/controller_mod/controller_mod_featured.png'
 
 ![](/images/controller_mod/controller_mod_featured.png)
 
-## Demo content
+## RC Controller Adaptation
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+This project was for May We Help. The objective was to take an existing RC car controller for a toy dump truck and modify it so that it could be used with just one hand by adding a Wii Nunchuck. 
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+### Initial Controller (Before Modifications)
 
-You can create lists:
+<img src="/images/controller_mod/initial_controller.jpg">
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+The initial controller design was fairly simple, all of the joysticks and buttons on the surface just pressed digital buttons on the controller PCB. 
 
-And:
+### Modifications
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+To make the nunckuck work, an arduino teensy was used to interpret the nunchuck button inputs over I2C. It then sent digital outputs to MOSTFETS whose outputs interrupted the push button signal on the controller PCB, tricking the controller into thinking a button was actually pushed. This was then communicated to the RC car without ever modifying the car or RF components in any way. 
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+<img src="/images/controller_mod/Artboard_nun.png">
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 
-The theme also supports markdown tables:
+#### Components
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
+* Teensy 2.0
+* Wii Nunchuck 
+* Wii Nunchuck Adapter
+* MOSFETS
+* 3D Printed Controller Interface
 
 ---
 
@@ -54,53 +40,12 @@ You can throw in some horizontal rules too:
 
 Here's a really neat custom feature we added – galleries:
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/square-01.jpg">
-	<img src="/images/demo/portrait-02.jpg">
-	<img src="/images/demo/square-02.jpg">
-	<img src="/images/demo/square-03.jpg">
-	<img src="/images/demo/square-04.jpg">
-	<img src="/images/demo/landscape-05.jpg">
+<div class="gallery" data-columns="2">
+	<img src="/images/controller_mod/controller_top_view.jpg">
+	<img src="/images/controller_mod/micro_controller.jpg">
+	<img src="/images/controller_mod/nunchuck_insert.jpg">
+	<img src="/images/controller_mod/prototype1.jpg">
 </div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/square-01.jpg">
-    <img src="/images/demo/portrait-02.jpg">
-    <img src="/images/demo/square-02.jpg">
-    <img src="/images/demo/square-03.jpg">
-    <img src="/images/demo/square-04.jpg">
-    <img src="/images/demo/landscape-05.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/landscape-02.jpg">
-	<img src="/images/demo/landscape-03.jpg">
-	<img src="/images/demo/landscape-04.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/107469489" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
 
 ## Pretty cool, huh?
 
