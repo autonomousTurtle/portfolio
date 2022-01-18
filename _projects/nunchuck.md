@@ -36,9 +36,7 @@ To make the nunckuck work, an arduino teensy was used to interpret the nunchuck 
 
 ---
 
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
+### Project Gallery
 
 <div class="gallery" data-columns="2">
 	<img src="/images/controller_mod/controller_top_view.jpg">
@@ -46,11 +44,3 @@ Here's a really neat custom feature we added – galleries:
 	<img src="/images/controller_mod/nunchuck_insert.jpg">
 	<img src="/images/controller_mod/prototype1.jpg">
 </div>
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
