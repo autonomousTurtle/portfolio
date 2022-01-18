@@ -44,46 +44,11 @@ This robot consists of a mobile platform with 4 independent drive motors and a 3
 * Swash Plate Bearing
 
 
-### Navigation
+### Programming
 
 <img src="/images/rover/vision-test.gif">
 *Ball finding algorithm to identify and pick up tennis balls in the frame. 
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/107469489" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
 
 ## Pretty cool, huh?
 <a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Follow Project</a>
