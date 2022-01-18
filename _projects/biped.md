@@ -9,7 +9,7 @@ featured_image: '/images/biped/biped_featured.jpg'
 <img src="/images/biped/biped_featured.jpg">
 
 ## Demo content 5
-
+<img src="/images/biped/biped_featured.jpg" height=100>
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
