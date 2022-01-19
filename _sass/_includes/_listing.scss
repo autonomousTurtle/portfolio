@@ -62,10 +62,12 @@
 	display: flex;
 	padding: 17px 20px;
 	background: rgba($overlay-background-color, $overlay-opacity);
-
+	
+	@include mq(tabletl) {
 	opacity: 0;
 	visibility: hidden;
 	@include transition(all 0.3s ease-in-out);
+	}
 }
 
 .listing-item__content--top {
@@ -86,9 +88,11 @@
 }
 
 .listing-item__info {
+	@include mq(tabletl) {
 	opacity: 0;
 	@include translate(0,10px);
 	@include transition(all 0.3s ease-in-out);
+  }
 }
 
 .listing-item__title {
