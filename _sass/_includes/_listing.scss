@@ -117,10 +117,6 @@
 	font-weight: $grid-item-subtitle-weight;
 	letter-spacing: $grid-item-subtitle-spacing;
 
-	@include mq(tabletp) {
-		font-size: $grid-item-subtitle-medium;
-	}
-
 	@include mq(laptop) {
 		font-size: $grid-item-subtitle-large;
 	}
