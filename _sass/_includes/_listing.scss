@@ -114,7 +114,6 @@
 	display: none;
 
 	@include mq(tabletp) {
-		display: block;
 		margin-top: 5px;
 		color: rgba($overlay-text-color, 0.7);
 		font-size: $grid-item-subtitle-medium;
