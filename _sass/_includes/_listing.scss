@@ -111,11 +111,16 @@
 }
 
 .listing-item__subtitle {
-	margin-top: 5px;
-	color: rgba($overlay-text-color, 0.7);
-	font-size: $grid-item-subtitle-small;
-	font-weight: $grid-item-subtitle-weight;
-	letter-spacing: $grid-item-subtitle-spacing;
+	display: none;
+
+	@include mq(tabletp) {
+		display: block;
+		margin-top: 5px;
+		color: rgba($overlay-text-color, 0.7);
+		font-size: $grid-item-subtitle-medium;
+		font-weight: $grid-item-subtitle-weight;
+		letter-spacing: $grid-item-subtitle-spacing;
+	}
 
 	@include mq(laptop) {
 		font-size: $grid-item-subtitle-large;
