@@ -69,10 +69,6 @@
 	@include transition(all 0.3s ease-in-out);
 	}
 	
-	@include mq(tabletp) {
-		top: 70%;
-	}
-	
 	
 }
 
