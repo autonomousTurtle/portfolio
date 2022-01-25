@@ -55,7 +55,7 @@
 
 .listing-item__content {
 	position: absolute;
-	top: 30%;
+	top: 50%;
 	right: 0;
 	bottom: 0;
 	left: 0;
@@ -64,6 +64,10 @@
 	background: rgba($overlay-background-color, $overlay-opacity);
 	
 	@include mq(tabletl) {
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
 	opacity: 0;
 	visibility: hidden;
 	@include transition(all 0.3s ease-in-out);
