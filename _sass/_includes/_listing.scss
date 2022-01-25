@@ -55,7 +55,7 @@
 
 .listing-item__content {
 	position: absolute;
-	top: 50;
+	top: 0;
 	right: 0;
 	bottom: 0;
 	left: 0;
@@ -68,6 +68,12 @@
 	visibility: hidden;
 	@include transition(all 0.3s ease-in-out);
 	}
+	
+	@include mq(tabletp) {
+		top: 70%;
+	}
+	
+	
 }
 
 .listing-item__content--top {
