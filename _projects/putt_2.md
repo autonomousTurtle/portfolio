@@ -19,6 +19,11 @@ The 20KG servos use serial communication to talk to one another, allowing them t
 The 20KG servos use serial communication to talk to one another, allowing them to be connected to each other rather than each to a central drive board. 
 
 ### Parts
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ### Wires and Connectors
 | Description | Quantity | Ordering Information | Comments |  
